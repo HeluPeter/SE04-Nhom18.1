@@ -1,5 +1,5 @@
 # SE04-NHOM-18.01
-This is a Software Engineering project of heading 18.01. 
+This is a Software Engineering project of heading 18.01.
 Instructor: Mr. Bui Sy Nguyen 
 Members include:
 1. Nguyen Van Ninh (C)
