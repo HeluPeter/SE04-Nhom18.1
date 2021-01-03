@@ -18,15 +18,15 @@
 ## Our project
 #### TÌM HIỂU VỀ VR APPLICATION VỚI UNREAL ENGINE 4
 
-1.	Ý tưởng 
--	Tạo game thực tế ảo VR sử dụng Unreal Engine 4 phiên bản 4.25
--	Chủ đề : Kiến trúc và nội thất
--	Mục đích : Trải nghiệm thực tế với không gian nội thất, kiến trúc trước khi được xây dựng. Giúp khách hàng có cái nhìn tổng quan và có các hướng giải quyết các vấn đề.
+1. Ideas
+- Create virtual reality games VR using Unreal Engine 4 version 4.25
+- Subject: Architecture and interior
+- Purpose: Experience the reality with interior space, architecture before being built. Help customers have an overview and have directions to solve problems.
 
-2.	Thực hiện
--	Tìm hiểu về UE4
--	Tìm hiểu kính VR và ứng dụng
--	Tạo game với Desktop
--	Tạo game VR
+2. Implementation
+- Learn about UE4
+- Learn VR glasses and applications
+- Create game with Desktop
+- Create VR games
 
 
