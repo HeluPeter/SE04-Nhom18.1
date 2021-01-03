@@ -16,7 +16,7 @@
 5. [Nguyen Minh The](https://www.facebook.com/profile.php?id=100009671985942)
 
 ## Our project
-#### TÌM HIỂU VỀ VR APPLICATION VỚI UNREAL ENGINE 4
+#### LEARN ABOUT VR APPLICATION WITH UNREAL ENGINE 4
 
 1. Ideas
 - Create virtual reality games VR using Unreal Engine 4 version 4.25
