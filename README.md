@@ -16,9 +16,6 @@
 5. [Nguyen Minh The](https://www.facebook.com/profile.php?id=100009671985942)
 
 ## Our project
-#### Topic: Learn VR Application with Unreal Engine 4
-Content: Make a VR app example with UE4, based on the scene provided by the teacher, focusing on coding some simple UI elements. House3D will lend VR glasses for testing ^^
-
 #### TÌM HIỂU VỀ VR APPLICATION VỚI UNREAL ENGINE 4
 
 1.	Ý tưởng 
